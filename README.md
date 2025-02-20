@@ -1,4 +1,4 @@
-# GSB WiFi Redesign 🚀
+# GSB WIFI Redesign 🚀
 
 Bu proje, **Gençlik ve Spor Bakanlığı (GSB) WiFi giriş** sayfası için modern ve kullanıcı dostu bir arayüz sunar. **Karanlık tema**, **cam efekti**, **monospaced fontlar** ve **akıcı animasyonlar** ile şık bir deneyim hedeflenmiştir.  
 
